@@ -3,6 +3,14 @@ package com.myit.entity;
 public class User {
 	private  int  userId;
 	private String userName;
+	private  int  age;
+	
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
 	public int getUserId() {
 		return userId;
 	}
