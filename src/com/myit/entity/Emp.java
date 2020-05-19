@@ -3,6 +3,8 @@ package com.myit.entity;
 public class Emp {
 	private  String  name;
 	private  String  address;
+	//ÀîËÄÌí¼Óphone
+	private  String  phone;
 	
 	public String getAddress() {
 		return address;
