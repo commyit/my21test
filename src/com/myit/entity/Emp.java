@@ -3,6 +3,9 @@ package com.myit.entity;
 public class Emp {
 	private  String  name;
 	private  String  address;
+	//ÕÅÈıÌí¼Ósex
+	private  String  sex;
+	
 	
 	public String getAddress() {
 		return address;
